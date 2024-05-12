@@ -68,37 +68,3 @@ class Test_001_Amazon(LogGen):
 
 
 
-
-
-    # @pytest.mark.sanity
-    # @pytest.mark.regression
-    # def test_login_001(self):
-    #
-    #
-    #
-    #
-    #     self.lp = LoginPage(self.driver)
-    #     self.rows = XLUtils.getRowCount(self.path, 'Login')
-    #
-    #     for r in range(4, self.rows + 1):
-    #         self.username = XLUtils.readData(self.path, 'Login', r, 1)
-    #         self.password = XLUtils.readData(self.path, 'Login', r, 2)
-    #
-    #         self.logger.info("*******Url Passed***********")
-    #         self.lp.setUserName(self.username)
-    #         time.sleep(2)
-    #         self.lp.setPassword(self.password)
-    #         self.logger.info("*******Username Passwored entered***********")
-    #         time.sleep(2)
-    #         self.lp.clickLogin()
-    #         self.logger.info("*******Login Successful***********")
-    #         time.sleep(10)
-    #
-    #     act_title = self.driver.title
-    #     if act_title == "EOX Vantage":
-    #         assert True
-    #         self.logger.info("*******Loging Test Passed***********")
-    #     else:
-    #         self.driver.save_screenshot(".\\Screenshots\\" + "test_login.png")
-    #         self.logger.info("*******Login Test Failed***********")
-    #         assert False
