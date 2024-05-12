@@ -1,0 +1,27 @@
+1.Use this comand to run the test : >>pytest --html=Reports\report.html testcases/test_amazon.py
+2.Test Data are extraced from excel file stored in the folder TestData/Data.xlsx
+3.Test Results will get genetrated and the results can be extraced from folder Reports/report.html and the link will get generated once the code is executed and when clicked on the link it will show the report .
+4.If the test fails in any case then Screnshots will get stored under Screenshot folder
+5.XPath are stored under folder pageobject/amazon.py
+6.Test Cases are stored in the folder testcases/test_amazon.py
+7.Logger is used to get the proper execution logs and this can be find under the Logs/automation.log .
+8.Framework used is pytest.
+
+
+
+
+Step to run:
+1.To run this test please open the excel and enter the email and password in the excel and then save it
+2.pull the code from git to the local machine
+3.Open Pycharm and import this framework
+4.Install necessary package such as openpxyl, pytest-html  , selenium, pytest etc
+5.user this command >>pytest --html=Reports\report.html testcases/test_amazon.py
+
+
+
+Issues in Amazon:
+1.Sometime it will ask to enter the OTP or enter the captcha when clicked on login after entering the credentials
+2.Price range will keep on getting changed to either slider or text box to enter max and min
+  I have created the test case assuming it will allow the user to enter the max and min values as the slider to select the price range appear sometimes.
+  Test case 3 might fail if the silder appear in place of max and min value fields to give the price range.
+3.There is one item with incorrect pricing i.e 39091\n. so test case 4 might shows as failed even though there is no issue with the logic or code , the price is in incorrect format .

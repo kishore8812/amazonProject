@@ -1,0 +1,1217 @@
+2024-05-12 10:55:12,031 :INFO : Test_001_Amazon :*******ISMS App is opened***********
+2024-05-12 11:16:40,020 :INFO : Test_001_Amazon :*******ISMS App is opened***********
+2024-05-12 11:19:06,013 :INFO : Test_001_Amazon :*******ISMS App is opened***********
+2024-05-12 11:24:54,476 :INFO : Test_001_Amazon :*******ISMS App is opened***********
+2024-05-12 11:30:17,024 :INFO : Test_001_Amazon :*******ISMS App is opened***********
+2024-05-12 11:31:15,097 :INFO : Test_001_Amazon :*******ISMS App is opened***********
+2024-05-12 11:46:10,271 :INFO : Test_001_Amazon :*******ISMS App is opened***********
+2024-05-12 11:51:15,386 :INFO : Test_001_Amazon :*******ISMS App is opened***********
+2024-05-12 11:53:18,428 :INFO : Test_001_Amazon :*******ISMS App is opened***********
+2024-05-12 12:42:25,196 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 12:42:25,196 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 12:42:25,196 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 12:42:25,196 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 12:42:27,278 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 12:47:16,322 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 12:47:16,322 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 12:47:16,322 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 12:47:16,322 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 12:48:18,553 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 12:48:18,553 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 12:48:18,553 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 12:48:18,553 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 12:55:10,888 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 12:55:10,888 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 12:55:10,888 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 12:55:10,888 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 12:57:41,622 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 12:57:41,622 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 12:57:41,622 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 12:57:41,622 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 12:59:55,465 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 12:59:55,465 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 12:59:55,465 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 12:59:55,465 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 12:59:58,948 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 13:02:22,589 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:02:22,589 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:02:22,589 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:02:22,589 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:04:58,358 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:04:58,360 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:04:58,360 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:04:58,360 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:18:10,644 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:18:10,644 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:18:10,644 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:18:10,644 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:19:25,069 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:19:25,069 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:19:25,069 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:19:25,069 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:20:04,827 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:20:04,827 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:20:04,827 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:20:04,827 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:20:50,896 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:20:50,896 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:20:50,896 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:20:50,896 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:21:25,858 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:21:25,858 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:21:25,858 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:21:25,858 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:22:24,624 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:22:24,625 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:22:24,625 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:22:24,625 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:24:29,827 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:24:29,827 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:24:29,827 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:24:29,827 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:34:06,767 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:34:06,767 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:34:06,767 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:34:06,767 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:35:09,867 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:35:09,867 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:35:09,867 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:35:09,867 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:37:34,601 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:37:34,601 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:37:34,601 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:37:34,601 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:40:57,045 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:40:57,045 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:40:57,045 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:40:57,045 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:42:14,447 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:42:14,447 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:42:14,447 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:42:14,448 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:42:47,069 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:42:47,069 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:42:47,069 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:42:47,069 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:43:41,736 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:43:41,736 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:43:41,736 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:43:41,736 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:45:55,941 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:45:55,941 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:45:55,942 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:45:55,942 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:49:03,929 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:49:03,930 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:49:03,930 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:49:03,930 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:52:12,089 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:52:12,089 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:52:12,089 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:52:12,091 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:54:32,199 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:54:32,199 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:54:32,199 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:54:32,199 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:55:27,461 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:55:27,461 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:55:27,462 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:55:27,462 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:55:44,142 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 13:57:13,333 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:57:13,334 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:57:13,334 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:57:13,334 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:58:13,073 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:58:13,073 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:58:13,073 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:58:13,073 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:58:24,841 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 13:59:26,291 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 13:59:26,291 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 13:59:26,291 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 13:59:26,291 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 13:59:36,115 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:17:46,337 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:17:46,337 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:17:46,337 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:17:46,338 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:17:51,696 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:19:21,096 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:19:21,096 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:19:21,096 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:19:21,097 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:19:26,085 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:20:14,823 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:20:14,823 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:20:14,823 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:20:14,823 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:20:19,608 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:21:11,452 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:21:11,453 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:21:11,453 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:21:11,453 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:21:16,569 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:29:53,752 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:29:53,752 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:29:53,752 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:29:53,752 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:29:58,360 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:29:58,362 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:29:58,362 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:30:02,668 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 14:30:02,668 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 14:30:02,670 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 14:38:36,836 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:38:36,838 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:38:36,838 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:38:36,838 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:38:41,684 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:38:41,684 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:38:41,684 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:38:48,315 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 14:38:48,315 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 14:38:48,316 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 14:40:42,503 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:40:42,503 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:40:42,504 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:40:42,504 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:40:47,309 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:40:47,309 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:40:47,309 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:41:01,661 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 14:41:01,661 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 14:41:01,661 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 14:41:27,027 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:41:27,027 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:41:27,027 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:41:27,027 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:41:32,633 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:41:32,633 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:41:32,633 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:42:27,462 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:42:27,462 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:42:27,463 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:42:27,463 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:42:31,891 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:42:31,891 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:42:31,891 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:42:46,472 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 14:42:46,472 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 14:42:46,472 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 14:43:28,711 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:43:28,711 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:43:28,711 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:43:28,719 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:43:33,262 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:43:33,262 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:43:33,262 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:43:47,954 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 14:43:47,954 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 14:43:47,954 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 14:44:47,254 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:44:47,254 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:44:47,254 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:44:47,254 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:44:51,910 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:44:51,910 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:44:51,911 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:45:14,668 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:45:14,668 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:45:14,668 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:45:14,672 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:45:20,286 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:45:20,286 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:45:20,286 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:48:11,953 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:48:11,953 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:48:11,953 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:48:11,953 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:48:16,632 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:48:16,632 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:48:16,633 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:49:59,251 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:49:59,251 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:49:59,251 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:49:59,251 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:50:04,080 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:50:04,080 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:50:04,080 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:50:58,731 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:50:58,731 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:50:58,731 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:50:58,731 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:51:04,129 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:51:04,129 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:51:04,129 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:52:48,381 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 14:52:48,381 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 14:52:48,381 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 14:53:04,950 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:53:04,950 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:53:04,950 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:53:04,950 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:53:09,674 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:53:09,675 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:53:09,675 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:54:53,966 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 14:54:53,966 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 14:54:53,966 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 14:57:48,651 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:57:48,652 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:57:48,652 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:57:48,652 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:57:53,333 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:57:53,334 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:57:53,334 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 14:58:43,299 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 14:58:43,299 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 14:58:43,299 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 14:58:43,299 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 14:58:48,305 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 14:58:48,305 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 14:58:48,306 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:00:15,890 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:00:15,890 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:00:15,890 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:00:15,890 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:00:21,183 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:00:21,183 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:00:21,183 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:01:05,640 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:01:05,640 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:01:05,640 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:01:05,640 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:01:09,956 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:01:09,956 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:01:09,957 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:02:54,291 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 15:02:54,291 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 15:02:54,291 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 15:03:10,253 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:03:10,253 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:03:10,253 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:03:10,253 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:03:15,115 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:03:15,115 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:03:15,115 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:03:47,515 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:03:47,515 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:03:47,515 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:03:47,517 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:03:52,484 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:03:52,484 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:03:52,484 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:04:50,779 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:04:50,779 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:04:50,779 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:04:50,779 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:04:55,804 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:04:55,804 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:04:55,804 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:06:48,692 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:06:48,692 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:06:48,692 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:06:48,692 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:06:53,858 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:06:53,858 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:06:53,858 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:08:39,595 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 15:08:39,595 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 15:08:39,596 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 15:25:39,592 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:25:39,593 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:25:39,593 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:25:39,593 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:25:44,395 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:25:44,396 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:25:44,396 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:26:25,249 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:26:25,249 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:26:25,250 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:26:25,250 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:26:29,657 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:26:29,657 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:26:29,657 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:26:36,193 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 15:26:36,193 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 15:26:36,193 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 15:30:27,674 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:30:27,674 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:30:27,674 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:30:27,675 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:30:32,426 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:30:32,426 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:30:32,426 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:31:03,672 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:31:03,672 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:31:03,672 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:31:03,672 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:31:08,587 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:31:08,587 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:31:08,587 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:31:53,279 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:31:53,279 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:31:53,279 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:31:53,279 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:31:57,956 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:31:57,956 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:31:57,956 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:32:55,867 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:32:55,868 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:32:55,868 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:32:55,868 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:33:00,482 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:33:00,482 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:33:00,482 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:33:36,084 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:33:36,084 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:33:36,084 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:33:36,084 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:33:41,123 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:33:41,123 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:33:41,123 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:33:48,274 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 15:33:48,274 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 15:33:48,274 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 15:36:10,265 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:36:10,265 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:36:10,265 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:36:10,265 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:36:15,302 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:36:15,302 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:36:15,302 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:39:11,234 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:39:11,234 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:39:11,234 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:39:11,234 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:39:16,050 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:39:16,051 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:39:16,051 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:39:22,808 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 15:39:22,808 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 15:39:22,808 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 15:42:37,552 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:42:37,554 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:42:37,554 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:42:37,554 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:42:42,614 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:42:42,614 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:42:42,614 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:42:49,613 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 15:42:49,613 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 15:42:49,613 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 15:46:39,964 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:46:39,964 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:46:39,964 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:46:39,964 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:46:44,624 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:46:44,624 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:46:44,624 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:46:52,680 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 15:46:52,680 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 15:46:52,680 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 15:56:43,586 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:56:43,587 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:56:43,587 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:56:43,587 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:56:48,551 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:56:48,551 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:56:48,551 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:57:52,545 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:57:52,545 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:57:52,545 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:57:52,545 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:57:57,686 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:57:57,687 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:57:57,687 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:58:05,706 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 15:58:05,707 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 15:58:05,707 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 15:58:34,906 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 15:58:34,906 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 15:58:34,906 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 15:58:34,906 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 15:58:39,758 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 15:58:39,758 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 15:58:39,758 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 15:58:47,627 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 15:58:47,628 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 15:58:47,628 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 16:33:32,561 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:33:32,561 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:33:32,561 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:33:32,561 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:33:37,550 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:33:37,550 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:33:37,550 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:34:32,041 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:34:32,041 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:34:32,041 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:34:32,041 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:34:37,114 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:34:37,115 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:34:37,115 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:34:45,125 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 16:34:45,125 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 16:34:45,125 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 16:37:43,746 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:37:43,746 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:37:43,747 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:37:43,747 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:37:48,391 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:37:48,391 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:37:48,391 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:37:55,948 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 16:37:55,949 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 16:37:55,949 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 16:39:32,503 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:39:32,503 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:39:32,504 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:39:32,504 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:39:37,257 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:39:37,257 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:39:37,257 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:40:07,811 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:40:07,811 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:40:07,811 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:40:07,812 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:40:12,552 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:40:12,552 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:40:12,552 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:41:51,367 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:41:51,368 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:41:51,368 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:41:51,368 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:41:56,230 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:41:56,230 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:41:56,231 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:42:05,169 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 16:42:05,170 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 16:42:05,170 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 16:45:29,712 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:45:29,712 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:45:29,713 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:45:29,713 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:45:34,825 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:45:34,825 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:45:34,826 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:46:16,918 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:46:16,918 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:46:16,918 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:46:16,918 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:46:21,960 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:46:21,960 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:46:21,960 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:48:01,057 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:48:01,059 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:48:01,059 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:48:01,059 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:48:06,165 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:48:06,165 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:48:06,166 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:48:14,023 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 16:48:14,023 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 16:48:14,023 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 16:51:07,979 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:51:07,981 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:51:07,981 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:51:07,981 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:51:13,861 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:51:13,861 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:51:13,861 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:51:45,817 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:51:45,817 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:51:45,817 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:51:45,817 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:51:54,306 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:51:54,306 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:51:54,306 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:54:08,357 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 16:54:08,359 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 16:54:08,359 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 16:54:08,359 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 16:54:18,642 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 16:54:18,642 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 16:54:18,642 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 16:55:10,528 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 16:55:10,528 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 16:55:10,528 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 17:05:42,392 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 17:05:42,392 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 17:05:42,392 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 17:05:42,392 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 17:05:48,533 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 17:05:48,534 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 17:05:48,534 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 17:05:59,476 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 17:05:59,476 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 17:05:59,476 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 17:08:58,890 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 17:08:58,890 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 17:08:58,890 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 17:08:58,891 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 17:09:06,927 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 17:09:06,927 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 17:09:06,927 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 17:11:06,894 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 17:11:06,894 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 17:11:06,894 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 17:11:06,894 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 17:11:12,576 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 17:11:12,576 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 17:11:12,576 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 17:32:19,746 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 17:32:19,746 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 17:32:19,746 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 17:32:19,747 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 17:32:24,427 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 17:32:24,427 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 17:32:24,427 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 17:38:04,329 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 17:38:04,329 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 17:38:04,329 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 17:38:04,330 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 17:38:09,311 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 17:38:09,311 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 17:38:09,311 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 17:42:33,740 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 17:42:33,740 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 17:42:33,740 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 17:42:33,740 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 17:42:39,035 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 17:42:39,035 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 17:42:39,035 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 17:47:45,572 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 17:47:45,572 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 17:47:45,572 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 17:47:45,572 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 17:47:50,509 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 17:47:50,510 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 17:47:50,510 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 17:57:50,709 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 17:57:50,710 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 17:57:50,710 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 17:57:50,710 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 17:57:56,040 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 17:57:56,040 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 17:57:56,040 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:00:20,975 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:00:20,975 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:00:20,975 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:00:20,977 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:00:25,669 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:00:25,669 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:00:25,669 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:01:06,140 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:01:06,140 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:01:06,140 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:01:06,141 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:01:11,647 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:01:11,647 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:01:11,647 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:34:11,650 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:34:11,650 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:34:11,651 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:34:11,651 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:34:16,549 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:34:16,549 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:34:16,549 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:34:47,386 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:34:47,386 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:34:47,386 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:34:47,386 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:34:52,569 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:34:52,569 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:34:52,569 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:35:23,707 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:35:23,707 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:35:23,707 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:35:23,707 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:35:28,496 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:35:28,496 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:35:28,496 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:35:35,015 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 18:35:35,015 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 18:35:35,015 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 18:38:17,121 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:38:17,121 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:38:17,121 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:38:17,121 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:38:22,022 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:38:22,022 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:38:22,022 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:38:28,234 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 18:38:28,235 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 18:38:28,235 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 18:39:35,588 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:39:35,588 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:39:35,588 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:39:35,588 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:39:40,596 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:39:40,596 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:39:40,596 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:39:53,254 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 18:39:53,254 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 18:39:53,254 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 18:40:33,613 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:40:33,613 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:40:33,613 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:40:33,613 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:40:38,606 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:40:38,606 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:40:38,606 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:42:25,355 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:42:25,355 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:42:25,356 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:42:25,356 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:42:30,118 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:42:30,118 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:42:30,118 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:45:39,247 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:45:39,247 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:45:39,247 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:45:39,259 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:45:43,973 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:45:43,973 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:45:43,973 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:46:38,770 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:46:38,771 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:46:38,771 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:46:38,771 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:46:43,667 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:46:43,667 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:46:43,667 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:47:12,601 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:47:12,601 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:47:12,601 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:47:12,601 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:47:17,209 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:47:17,209 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:47:17,209 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:50:04,786 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:50:04,787 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:50:04,787 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:50:04,787 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:50:09,535 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:50:09,535 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:50:09,535 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:50:38,404 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:50:38,404 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:50:38,411 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:50:38,411 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:50:43,446 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:50:43,446 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:50:43,446 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:52:32,704 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 18:52:32,704 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 18:52:32,704 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 18:52:58,823 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:52:58,823 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:52:58,823 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:52:58,823 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:53:03,558 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:53:03,558 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:53:03,558 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:53:27,412 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 18:53:27,412 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 18:53:27,412 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 18:53:27,412 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 18:53:33,305 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 18:53:33,305 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 18:53:33,305 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 18:55:22,575 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 18:55:22,575 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 18:55:22,575 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:17:18,315 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:17:18,315 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:17:18,315 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:17:18,315 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:17:25,448 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:17:25,448 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:17:25,448 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:17:34,459 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:17:34,460 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:17:34,460 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:20:37,342 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:20:37,342 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:20:37,342 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:20:37,342 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:20:42,461 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:20:42,461 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:20:42,461 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:21:05,109 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:21:05,111 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:21:05,111 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:21:05,111 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:21:09,371 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:21:09,371 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:21:09,371 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:21:19,497 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:21:19,498 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:21:19,498 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:23:22,987 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:23:22,987 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:23:22,987 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:23:22,987 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:23:28,285 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:23:28,285 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:23:28,285 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:23:52,600 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:23:52,600 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:23:52,600 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:23:52,600 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:23:57,257 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:23:57,257 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:23:57,257 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:24:18,461 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:24:18,461 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:24:18,461 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:24:18,461 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:24:23,439 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:24:23,440 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:24:23,440 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:24:56,035 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:24:56,037 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:24:56,037 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:24:56,037 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:25:00,959 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:25:00,959 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:25:00,959 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:25:37,733 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:25:37,733 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:25:37,733 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:25:37,733 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:25:42,214 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:25:42,215 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:25:42,215 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:26:17,225 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:26:17,225 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:26:17,225 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:26:17,225 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:26:22,722 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:26:22,722 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:26:22,722 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:26:32,303 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:26:32,303 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:26:32,303 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:27:59,682 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:27:59,684 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:27:59,684 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:27:59,684 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:28:04,014 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:28:04,014 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:28:04,014 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:28:25,538 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:28:25,538 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:28:25,538 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:28:25,538 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:28:30,272 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:28:30,272 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:28:30,272 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:28:39,395 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:28:39,395 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:28:39,395 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:30:58,174 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:30:58,174 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:30:58,174 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:30:58,174 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:31:02,986 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:31:02,986 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:31:02,986 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:31:12,189 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:31:12,189 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:31:12,189 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:36:53,137 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:36:53,137 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:36:53,137 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:36:53,137 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:36:57,763 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:36:57,763 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:36:57,763 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:37:21,524 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:37:21,524 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:37:21,524 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:37:21,524 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:37:26,391 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:37:26,391 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:37:26,391 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:37:36,626 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:37:36,626 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:37:36,626 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:41:19,316 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:41:19,316 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:41:19,316 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:41:19,316 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:41:24,815 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:41:24,815 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:41:24,815 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:41:33,779 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:41:33,779 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:41:33,779 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:44:06,957 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:44:06,957 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:44:06,957 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:44:06,958 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:44:11,671 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:44:11,671 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:44:11,671 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:45:05,069 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:45:05,069 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:45:05,069 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:45:05,070 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:45:09,718 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:45:09,718 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:45:09,718 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:45:46,176 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:45:46,176 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:45:46,176 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:45:46,176 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:45:50,351 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:45:50,351 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:45:50,351 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:45:59,975 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:45:59,975 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:45:59,975 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:53:10,945 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:53:10,945 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:53:10,945 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:53:10,945 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:53:17,041 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:53:17,041 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:53:17,041 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:53:43,826 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:53:43,826 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:53:43,826 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:53:43,826 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:53:48,404 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:53:48,404 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:53:48,404 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:54:35,320 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:54:35,321 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:54:35,321 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:54:35,321 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:54:39,885 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:54:39,885 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:54:39,885 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:54:49,564 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:54:49,565 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:54:49,565 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 19:59:41,017 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 19:59:41,017 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 19:59:41,017 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 19:59:41,018 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 19:59:45,491 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 19:59:45,492 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 19:59:45,492 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 19:59:55,424 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 19:59:55,425 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 19:59:55,425 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 20:04:28,612 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:04:28,612 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:04:28,612 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:04:28,612 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:04:33,225 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:04:33,225 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:04:33,225 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:04:42,369 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 20:04:42,369 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 20:04:42,369 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 20:19:09,187 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:19:09,187 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:19:09,187 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:19:09,187 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:19:14,056 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:19:14,056 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:19:14,056 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:19:23,963 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 20:19:23,963 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 20:19:23,963 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 20:21:10,406 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:21:10,406 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:21:10,406 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:21:10,406 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:21:15,039 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:21:15,039 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:21:15,039 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:21:23,766 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 20:21:23,766 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 20:21:23,766 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 20:24:24,397 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:24:24,397 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:24:24,397 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:24:24,397 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:24:28,891 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:24:28,891 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:24:28,891 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:24:54,792 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:24:54,792 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:24:54,792 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:24:54,792 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:24:59,646 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:24:59,646 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:24:59,646 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:25:09,630 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 20:25:09,630 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 20:25:09,630 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 20:29:29,705 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:29:29,706 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:29:29,706 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:29:29,706 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:29:34,737 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:29:34,737 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:29:34,737 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:38:09,576 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:38:09,576 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:38:09,576 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:38:09,576 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:38:14,002 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:38:14,002 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:38:14,002 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:38:22,981 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 20:38:22,981 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 20:38:22,981 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 20:39:15,931 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:39:15,931 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:39:15,931 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:39:15,931 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:39:20,426 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:39:20,426 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:39:20,426 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:39:29,168 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 20:39:29,168 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 20:39:29,168 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 20:40:24,237 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:40:24,237 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:40:24,237 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:40:24,237 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:40:29,054 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:40:29,054 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:40:29,057 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:40:37,808 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 20:40:37,808 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 20:40:37,808 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 20:43:10,055 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:43:10,055 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:43:10,055 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:43:10,056 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:43:14,823 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:43:14,823 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:43:14,823 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 20:43:25,946 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 20:43:25,946 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 20:43:25,946 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 20:46:46,472 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 20:46:46,472 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 20:46:46,472 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 20:46:46,472 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 20:46:51,047 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 20:46:51,047 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 20:46:51,047 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 21:15:45,716 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 21:15:45,716 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 21:15:45,716 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 21:15:45,716 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 21:15:50,633 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 21:15:50,633 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 21:15:50,633 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 21:15:59,552 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 21:15:59,552 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 21:15:59,552 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 21:22:27,758 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 21:22:27,758 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 21:22:27,758 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 21:22:27,758 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 21:22:32,364 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 21:22:32,364 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 21:22:32,364 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 21:36:27,477 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 21:36:27,477 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 21:36:27,477 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 21:36:27,479 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 21:36:34,277 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 21:36:34,277 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 21:36:34,277 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 21:36:43,757 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 21:36:43,757 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 21:36:43,758 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 21:37:18,530 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 21:37:18,530 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 21:37:18,530 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 21:37:18,530 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 21:37:23,371 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 21:37:23,371 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 21:37:23,372 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 21:37:32,339 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 21:37:32,339 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 21:37:32,339 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 21:53:05,678 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 21:53:05,678 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 21:53:05,678 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 21:53:05,678 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 21:53:10,986 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 21:53:10,986 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 21:53:10,986 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 21:53:21,090 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 21:53:21,090 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 21:53:21,090 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 22:51:15,992 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 22:51:15,993 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 22:51:15,993 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 22:51:15,993 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 22:51:21,386 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 22:51:21,386 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 22:51:21,386 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 22:51:56,783 :INFO : Test_001_Amazon :*******Searched for all the 5 star rating items in 1st and 2nd pager***********
+2024-05-12 22:51:56,783 :INFO : Test_001_Amazon :*******Verified if the price is in the range of 30k to 50k***********
+2024-05-12 22:51:56,783 :INFO : Test_001_Amazon :*******Printed the 5 star rating items from page 1 and page 2***********
+2024-05-12 22:53:00,293 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 22:53:00,293 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 22:53:00,293 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 22:53:00,293 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 22:53:05,357 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 22:53:05,358 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 22:53:05,358 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 22:53:41,914 :INFO : Test_001_Amazon :*******Searched for all the 5 star rating items in 1st and 2nd pager***********
+2024-05-12 22:53:41,914 :INFO : Test_001_Amazon :*******Verified if the price is in the range of 30k to 50k***********
+2024-05-12 22:53:41,914 :INFO : Test_001_Amazon :*******Printed the 5 star rating items from page 1 and page 2***********
+2024-05-12 22:55:35,861 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 22:55:35,861 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 22:55:35,861 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 22:55:35,861 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 22:55:40,831 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 22:55:40,831 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 22:55:40,831 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 22:55:50,974 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 22:55:50,974 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 22:55:50,974 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 23:01:40,906 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:01:40,906 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:01:40,906 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:01:40,906 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:01:45,678 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:01:45,678 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:01:45,678 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:02:20,996 :INFO : Test_001_Amazon :*******Searched for all the 5 star rating items in 1st and 2nd pager***********
+2024-05-12 23:02:20,996 :INFO : Test_001_Amazon :*******Verified if the price is in the range of 30k to 50k***********
+2024-05-12 23:02:20,996 :INFO : Test_001_Amazon :*******Printed the 5 star rating items from page 1 and page 2***********
+2024-05-12 23:04:04,298 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:04:04,299 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:04:04,299 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:04:04,299 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:04:09,287 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:04:09,287 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:04:09,287 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:04:18,153 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 23:04:18,153 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 23:04:18,153 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 23:07:03,866 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:07:03,866 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:07:03,866 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:07:03,866 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:07:09,206 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:07:09,206 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:07:09,206 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:07:47,855 :INFO : Test_001_Amazon :*******Searched for all the 5 star rating items in 1st and 2nd pager***********
+2024-05-12 23:07:47,855 :INFO : Test_001_Amazon :*******Verified if the price is in the range of 30k to 50k***********
+2024-05-12 23:07:47,855 :INFO : Test_001_Amazon :*******Printed the 5 star rating items from page 1 and page 2***********
+2024-05-12 23:10:58,819 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:10:58,819 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:10:58,819 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:10:58,819 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:11:03,601 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:11:03,601 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:11:03,601 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:11:40,041 :INFO : Test_001_Amazon :*******Searched for all the 5 star rating items in 1st and 2nd pager***********
+2024-05-12 23:11:40,041 :INFO : Test_001_Amazon :*******Verified if the price is in the range of 30k to 50k***********
+2024-05-12 23:11:40,041 :INFO : Test_001_Amazon :*******Printed the 5 star rating items from page 1 and page 2***********
+2024-05-12 23:13:07,920 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:13:07,920 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:13:07,920 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:13:07,920 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:13:12,799 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:13:12,799 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:13:12,800 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:13:49,507 :INFO : Test_001_Amazon :*******Searched for all the 5 star rating items in 1st and 2nd pager***********
+2024-05-12 23:13:49,507 :INFO : Test_001_Amazon :*******Verified if the price is in the range of 30k to 50k***********
+2024-05-12 23:13:49,507 :INFO : Test_001_Amazon :*******Printed the 5 star rating items from page 1 and page 2***********
+2024-05-12 23:14:48,025 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:14:48,025 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:14:48,025 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:14:48,025 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:14:53,319 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:14:53,319 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:14:53,319 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:15:04,942 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 23:15:04,942 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 23:15:04,942 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 23:17:49,050 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:17:49,050 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:17:49,050 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:17:49,050 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:17:53,854 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:17:53,856 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:17:53,856 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:18:30,364 :INFO : Test_001_Amazon :*******Searched for all the 5 star rating items in 1st and 2nd pager***********
+2024-05-12 23:18:30,364 :INFO : Test_001_Amazon :*******Verified if the price is in the range of 30k to 50k***********
+2024-05-12 23:18:30,364 :INFO : Test_001_Amazon :*******Printed the 5 star rating items from page 1 and page 2***********
+2024-05-12 23:19:52,962 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:19:52,962 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:19:52,962 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:19:52,962 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:19:57,562 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:19:57,562 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:19:57,562 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:20:34,304 :INFO : Test_001_Amazon :*******Searched for all the 5 star rating items in 1st and 2nd pager***********
+2024-05-12 23:20:34,304 :INFO : Test_001_Amazon :*******Verified if the price is in the range of 30k to 50k***********
+2024-05-12 23:20:34,304 :INFO : Test_001_Amazon :*******Printed the 5 star rating items from page 1 and page 2***********
+2024-05-12 23:25:49,083 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:25:49,083 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:25:49,083 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:25:49,083 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:25:54,331 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:25:54,332 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:25:54,332 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:26:04,289 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 23:26:04,289 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 23:26:04,289 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 23:26:55,603 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:26:55,603 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:26:55,603 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:26:55,604 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:27:00,545 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:27:00,545 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:27:00,545 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:27:09,697 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 23:27:09,697 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 23:27:09,697 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 23:28:41,218 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:28:41,218 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:28:41,218 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:28:41,218 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:28:47,150 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:28:47,150 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:28:47,150 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:28:59,927 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 23:28:59,927 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 23:28:59,927 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 23:30:08,475 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:30:08,481 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:30:08,481 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:30:08,481 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:30:13,549 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:30:13,549 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:30:13,550 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:31:32,032 :INFO : Test_001_Amazon :*******amazon name is searched***********
+2024-05-12 23:31:32,032 :INFO : Test_001_Amazon :*******results are printed***********
+2024-05-12 23:31:32,032 :INFO : Test_001_Amazon :*******Clicked on amazon text***********
+2024-05-12 23:31:32,032 :INFO : Test_001_Amazon :*******printed all results of the search results***********
+2024-05-12 23:31:37,726 :INFO : Test_001_Amazon :*******Amazon login is searched***********
+2024-05-12 23:31:37,726 :INFO : Test_001_Amazon :*******User entered its email and password***********
+2024-05-12 23:31:37,726 :INFO : Test_001_Amazon :*******User is able to login***********
+2024-05-12 23:31:47,459 :INFO : Test_001_Amazon :*******User clicked on the All button in the search bar***********
+2024-05-12 23:31:47,459 :INFO : Test_001_Amazon :*******User search for the electronics section and then clicked on the electronics text***********
+2024-05-12 23:31:47,460 :INFO : Test_001_Amazon :*******User searched for dell computer***********
+2024-05-12 23:32:10,527 :INFO : Test_001_Amazon :*******added the 1st 5 star rating item from page 1***********
+2024-05-12 23:32:10,527 :INFO : Test_001_Amazon :*******Click on Add to cart***********
+2024-05-12 23:32:10,527 :INFO : Test_001_Amazon :*******Verified if the item is added to the cart and the item is matching***********
