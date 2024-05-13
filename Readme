@@ -17,6 +17,9 @@ Step to run:
 4.Install necessary package such as openpxyl, pytest-html  , selenium, pytest etc
 5.user this command >>pytest --html=Reports\report.html testcases/test_amazon.py
 
+Html report link:
+http://localhost:63342/amazonProject/Reports/report.html?_ijt=7oljde7b3vclik01ajignbu4lg&_ij_reload=RELOAD_ON_SAVE&sort=result
+
 
 
 Issues in Amazon:
@@ -25,3 +28,5 @@ Issues in Amazon:
   I have created the test case assuming it will allow the user to enter the max and min values as the slider to select the price range appear sometimes.
   Test case 3 might fail if the silder appear in place of max and min value fields to give the price range.
 3.There is one item with incorrect pricing i.e 39091\n. so test case 4 might shows as failed even though there is no issue with the logic or code , the price is in incorrect format .
+
+
